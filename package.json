@@ -1,0 +1,13 @@
+{
+  "name": "open-iching-tools",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "JohnnRen",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/eslint-parser": "^7.21.8",
+    "@babel/plugin-syntax-import-assertions": "^7.20.0",
+    "eslint": "^8.40.0"
+  }
+}
